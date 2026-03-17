@@ -113,7 +113,7 @@ function App() {
       </section>
 
       <div className="ticks"></div>
-      <section id="spacer"></section>
+      // This is just a placeholder for the "Next steps" section. You can add more content here.
     </>
   )
 }
